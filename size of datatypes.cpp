@@ -28,3 +28,17 @@ int main()
     cin>> boolvar;
     cout<<"size of boolean:"<<sizeof(boolvar);
 }
+/* OUTPUT:
+enter integer variable:2
+size of integer:4
+enter float variable:2.4
+size of float:4
+enter double variable:2.54
+size of double:8
+enter char variable:a
+size of char:1
+enter string variable:ame
+size of string:32
+enter boolean variable:1
+size of boolean:1
+    */
