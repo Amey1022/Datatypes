@@ -16,7 +16,7 @@ long double: Extended precision floating-point type, larger than double (size va
 Character Types:  <br>
 char: Typically represents a single byte (8 bits) that can hold one character from the ASCII character set.<br>  
 </BODY>
-<h1>Code</h1>
+<h2>Code</h2>
 <h6>Refer to attached files</h6>
-<h1>Output</h1>
+<h2>Output</h2>
 <h6>Refer to attached files</h6>
